@@ -9,9 +9,7 @@
 
 # 2 环境配置
 
-1. 首先 pip 安装 Python - Arduino 支持：
-
-​              pip install arduino-python3
+1. 首先 pip 安装 Python - Arduino 支持：pip install arduino-python3
 
 2. 接着，上传 Arduino 端代码 到 Arduino Mega 2560 中
 
