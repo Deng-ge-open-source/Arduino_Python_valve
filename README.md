@@ -1,0 +1,2 @@
+# Arduino_Python_valve
+Python在线串口控制Arduino单片机连着的电磁阀门 for Wang
